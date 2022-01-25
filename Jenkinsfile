@@ -1,3 +1,3 @@
-def ejecucion = load 'pipeline.groovy'
+library 'pipeline.groovy'
 
 ejecucion.call()
