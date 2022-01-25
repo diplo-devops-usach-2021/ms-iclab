@@ -4,7 +4,7 @@ pipeline {
                 stage('Iniciando...') {
                     steps {
                         script {
-                            sh 'figlet oli'
+                            sh 'ls'
                         }
                     }
                 }
