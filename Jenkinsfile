@@ -1,3 +1,3 @@
 library 'jenkins-libs'
 
-pipeline.call()
+pipeline
