@@ -1,5 +1,5 @@
 @Library('jenkins-libs') _
-pipeline()
+pipelineTest()
 
 
 
