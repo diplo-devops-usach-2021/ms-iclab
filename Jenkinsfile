@@ -1,3 +1,3 @@
-library 'pipeline.groovy'
+library 'jenkins-libs'
 
-ejecucion.call()
+pipeline.call()
