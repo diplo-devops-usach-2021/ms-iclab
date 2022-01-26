@@ -1,3 +1,8 @@
-library 'jenkins-libs'
+@Library('jenkins-libs')_
+pipeline()
 
-pipeline.call()
+
+
+/*library 'jenkins-libs'
+
+pipeline.call()*/
