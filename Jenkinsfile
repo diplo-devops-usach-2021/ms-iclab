@@ -1,12 +1,2 @@
-pipeline {
-    agent any            
-    stages {
-        stage('Iniciando...') {
-            steps {
-                script {
-                    sh 'ls'
-                }
-            }
-        }
-    }
-}
+library 'pipeline-devops'
+ejecucion.call()
