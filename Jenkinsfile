@@ -1,5 +1,5 @@
-@Library('jenkins-libs') _
-pipelineTest()
+library 'pipeline-devops'
+ejecucion.call()
 
 
 
